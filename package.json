@@ -1,0 +1,12 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Simon Dice es el proyecto creado en el curso de Fundamentos de JS de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ingrid Banguero",
+  "license": "ISC"
+}
